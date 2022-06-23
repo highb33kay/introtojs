@@ -27,3 +27,4 @@ do{
 } while (!numValid)
 
 alert(result)
+console.log(result)
